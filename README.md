@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In this exercise, you're going to create some functions to help Phil keep track of his progress as he bakes a cake for your cohort.
+In this exercise, you're going to give Phil an improved way to manage his cake baking!
 
 ## Setup
 
