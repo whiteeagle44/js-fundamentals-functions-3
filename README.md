@@ -2,8 +2,7 @@
 
 ## Learning Objectives
 
-- Explain that functions are self-contained pieces of code that can be reused across a codebase
-- Explain that functions can have inputs and produce an output
+- Use functions with objects to change data
 
 ## Introduction
 
